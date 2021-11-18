@@ -6,3 +6,5 @@ La siguiente, es una pequeña aplicación, desarrollada en lenguaje C, que es ca
   <div>https://www.youtube.com/playlist?list=PL4f2y_lbxmN_n4WzLHgZiX33qOt3d7Jyd</div>
   <li><h4 style="font-weight: bold;">Resolución del proyecto:</h4></li>
 </ul>
+<img src="img/JulioCesar_page-0001.jpg">
+<img src="img/JulioCesar_page-0002.jpg">
