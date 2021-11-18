@@ -1,0 +1,1 @@
+void cambio(char s[]);

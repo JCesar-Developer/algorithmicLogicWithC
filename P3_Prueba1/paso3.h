@@ -1,0 +1,1 @@
+void paso3(FILE* IPS, FILE* ipsValidas);

@@ -1,0 +1,1 @@
+void paso1(FILE* *IPS);

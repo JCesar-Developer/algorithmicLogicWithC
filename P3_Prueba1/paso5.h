@@ -1,0 +1,1 @@
+void paso5(FILE* ipsValidas, char adaptador[], char string[]);

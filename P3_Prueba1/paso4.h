@@ -1,0 +1,1 @@
+void paso4(FILE* archivoTemporal, FILE* *ipsValidas);

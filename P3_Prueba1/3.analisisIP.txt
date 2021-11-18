@@ -1,0 +1,12 @@
+
+Haciendo ping a 8.8.8.8 con 32 bytes de datos:
+Respuesta desde 8.8.8.8: bytes=32 tiempo=40ms TTL=117
+Respuesta desde 8.8.8.8: bytes=32 tiempo=22ms TTL=117
+Respuesta desde 8.8.8.8: bytes=32 tiempo=26ms TTL=117
+Respuesta desde 8.8.8.8: bytes=32 tiempo=27ms TTL=117
+
+Estad¡sticas de ping para 8.8.8.8:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 22ms, M ximo = 40ms, Media = 28ms

@@ -1,0 +1,1 @@
+void paso2(FILE* *archivoTemporal, char adaptador[]);
