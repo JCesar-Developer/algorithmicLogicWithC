@@ -1,4 +1,4 @@
-# Comandos personalizados con C
+# Comandos personalizados de windows shell con C
 El presente es mi primer proyecto en el múndo de la programación. Es una pequeña aplicación, desarrollada en lenguaje C, que es capaz de modificar la configuración de red de una máquina local, cambiando el DNS actual del ordenador, por uno más rápido que será determinado entre una lista de diferentes servidores DNS escritos en un fichero de texto. 
 
 Nota: Para hacer uso de está aplicación se requieren permisos de administración.
