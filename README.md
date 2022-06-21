@@ -1,5 +1,7 @@
 # Comandos personalizados con C
-La siguiente, es una pequeña aplicación, desarrollada en lenguaje C, que es capaz de modificar parte de la configuración de red de una máquina local (únicamente en lo que tiene que ver con la resolución de nombres de dominio), por un adaptador que se determinará entre los de una lista de servidores DNS escritos en un fichero de texto, en caso de que el servidor DNS actual no sea el más rápido entre los proporcionado.
+El presente es mi primer proyecto en el múndo de la programación. Es una pequeña aplicación, desarrollada en lenguaje C, que es capaz de modificar la configuración de red de una máquina local, cambiando el DNS actual del ordenador, por uno más rápido que será determinado entre una lista de diferentes servidores DNS escritos en un fichero de texto. 
+
+Nota: Para hacer uso de está aplicación se requieren permisos de administración.
 
 <ul>
   <li><h4 style="font-weight: bold;">Video resolución del proyecto:</h4></li> 
